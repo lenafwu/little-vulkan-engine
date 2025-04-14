@@ -1,0 +1,2 @@
+/Users/helenwu/VulkanSDK/1.4.309.0/macOS/bin/glslc shaders/simple_shader.vert -o shaders/simple_shader.vert.spv
+/Users/helenwu/VulkanSDK/1.4.309.0/macOS/bin/glslc shaders/simple_shader.frag -o shaders/simple_shader.frag.spv
